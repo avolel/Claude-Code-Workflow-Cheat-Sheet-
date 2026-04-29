@@ -20,7 +20,7 @@ A single markdown cheatsheet covering everything you need to go from zero to pro
 
 | File | Description |
 |------|-------------|
-| [`claude-code-cheatsheet.md`](./claude-code-cheatsheet.md) | The full cheatsheet |
+| [`Cheat-sheet.md`](./Cheat-sheet.md) | The full cheatsheet |
 
 ## How to Use
 
